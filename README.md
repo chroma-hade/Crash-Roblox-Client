@@ -1,2 +1,6 @@
-# Crash-Roblox-Client
-testing blah blah
+# Crash-Roblox-System
+it work on ROBLOX STUDIO
+
+* I'm not responsible for the problems caused by using this. 
+
+**made by chroma.hade**
